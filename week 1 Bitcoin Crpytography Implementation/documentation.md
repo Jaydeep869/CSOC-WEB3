@@ -32,6 +32,8 @@ WEEK 1 WEB-3
 5. now converting transaction hash into integer as ecdsa formula needs integer and calculating required things which is written in https://cryptobook.nakov.com/digital-signatures/ecdsa-sign-verify-messages#ecdsa-sign
 6. now comparing the formula and if (R.x() % n) == r is true then the transaction is valid else not a valid transaction.
 
+----
 
+<img width="1132" alt="shapes at 25-05-19 20 40 34" src="https://github.com/user-attachments/assets/790685e1-0a60-496f-ba7f-958abe83d227" />
 
 
