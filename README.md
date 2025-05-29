@@ -54,3 +54,9 @@ Welcome to my Web3 learning log as part of the **COPS SDG Summer of Code 2025**.
 ---
 
 </details>
+
+
+<details>
+  <summary><strong>Click to Expand Week 2 Details</strong></summary>
+  
+</details>
