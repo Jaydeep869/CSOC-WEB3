@@ -16,6 +16,24 @@
 14. create a getWinner function which can be called by anyone and returns the winner of the election and return more winners if there is clash .
 15. when we change any memory on the blockchain we have to give a tax type thing called gas for making it updated in our case we have got some fake ether which we are using for our changes.
 ---
+### Demo Video
+
+* First Video
+
+  
+https://github.com/user-attachments/assets/c5da2c37-d8eb-4a95-a173-3f9642ad8b89
+
+
+
+* Second Video(limited time)
+
+
+
+https://github.com/user-attachments/assets/d5d89916-27ba-4d95-9e5d-e5a93f59192a
+
+
+
+---
 ### Reference:
 * ethereum stack exchange ```https://ethereum.stackexchange.com/```
 * remix ai for error analysis
