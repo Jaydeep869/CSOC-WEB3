@@ -59,4 +59,31 @@ Welcome to my Web3 learning log as part of the **COPS SDG Summer of Code 2025**.
 <details>
   <summary><strong>Click to Expand Week 2 Details</strong></summary>
   
+  ##  🗳️ Week 2 – DVoting Smart Contract
+
+> **Objective:** Build a decentralized voting system using Solidity on the Ethereum blockchain.
+
+📌 **Highlights**
+- Developed and tested on **Remix IDE**
+- Smart contract includes:
+  - **Chairperson logic** with access control
+  - **Time-restricted voting** using block timestamps
+  - Structs for **voters** and **proposals**
+  - **Event logging** for registration and voting
+  - **Gas awareness** for blockchain state changes
+
+🧪 **Functions Implemented**
+- `registerVoter()`, `addProposal()`, `vote()`, and `getWinner()`
+- Access modifiers for **chairperson-only actions** and **voting duration**
+
+🎥 **Demo Videos Available**  
+- Includes video walk-throughs of code and functionality
+
+📂 **Full Details & Code:**  
+👉 [Week 2 DVoting Smart Contract README](./Week%202%20DVoting%20Smart%20Contract/README.md)
+
+📚 **References**
+- [Ethereum StackExchange](https://ethereum.stackexchange.com)
+- [Solidity by Example Docs](https://docs.soliditylang.org/en/v0.8.30/solidity-by-example.html)
+
 </details>
