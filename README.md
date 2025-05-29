@@ -80,7 +80,7 @@ Welcome to my Web3 learning log as part of the **COPS SDG Summer of Code 2025**.
 - Includes video walk-throughs of code and functionality
 
 📂 **Full Details & Code:**  
-👉 [Week 2 DVoting Smart Contract README](./Week%202%20DVoting%20Smart%20Contract/README.md)
+  [Week 2 DVoting Smart Contract README](./Week%202%20DVoting%20Smart%20Contract/README.md)
 
 📚 **References**
 - [Ethereum StackExchange](https://ethereum.stackexchange.com)
